@@ -1,0 +1,14 @@
+CREATE TABLE IF NOT EXISTS abonents (
+    id INTEGER PRIMARY KEY AUTO_INCREMENT,
+    phone_number TEXT NOT NULL
+);
+
+CREATE TABLE IF NOT EXISTS transactions (
+    id INTEGER PRIMARY KEY AUTO_INCREMENT,
+    type_call TEXT NOT NULL,
+    abonent_id INTEGER NOT NULL REFERENCES abonents(id),
+    start_time TIMESTAMP NOT NULL,
+    end_time TIMESTAMP NOT NULL
+);
+
+CREATE SEQUENCE my_sequence START WITH 1 INCREMENT BY 1;

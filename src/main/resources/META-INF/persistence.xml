@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence xmlns="http://xmlns.jcp.org/xml/ns/persistence"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd"
+             version="2.1">
+    <persistence-unit name="Entity manager">
+        <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
+        <class>models.Abonent</class>
+        <class>models.CdrModel</class>
+        <properties>
+            <property name="hibernate.dialect" value="org.hibernate.dialect.H2Dialect"/>
+            <property name="javax.persistence.jdbc.driver" value="org.h2.Driver"/>
+            <property name="javax.persistence.jdbc.url" value="jdbc:h2:C:\prog\жаба лабы\Nexign_Test_Task\src\main\resources\myDB"/>
+            <property name="javax.persistence.jdbc.user" value="dima"/>
+            <property name="javax.persistence.jdbc.password" value="pass"/>
+            <property name="hibernate.id.new_generator_mappings" value="false"/>
+        </properties>
+    </persistence-unit>
+</persistence>

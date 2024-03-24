@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="920db537-ff7b-4e6b-a463-096301924a04" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generatedCDR/10_month_cdr.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generatedCDR/11_month_cdr.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generatedCDR/12_month_cdr.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generatedCDR/1_month_cdr.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generatedCDR/2_month_cdr.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generatedCDR/3_month_cdr.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generatedCDR/4_month_cdr.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generatedCDR/5_month_cdr.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generatedCDR/6_month_cdr.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generatedCDR/7_month_cdr.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generatedCDR/8_month_cdr.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generatedCDR/9_month_cdr.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/allclasses-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/allpackages-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/element-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/help-doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/index-files/index-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/index-files/index-10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/index-files/index-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/index-files/index-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/index-files/index-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/index-files/index-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/index-files/index-6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/index-files/index-7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/index-files/index-8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/index-files/index-9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/jquery-ui.overrides.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/legal/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/legal/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/legal/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/legal/jquery.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/legal/jqueryUI.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/member-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/models/Abonent.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/models/CallDuration.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/models/CdrModel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/models/UdrModel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/models/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/models/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/module-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/overview-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/overview-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/package-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/program/Main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/program/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/program/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/resources/glass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/resources/x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/script-dir/jquery-3.6.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/script-dir/jquery-ui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/script-dir/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/services/CdrService.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/services/ICdrService.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/services/IUdrService.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/services/UdrService.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/services/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/services/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/storage/migrations/Init.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/storage/migrations/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/storage/migrations/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/storage/repositories/AbonentRepository.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/storage/repositories/IAbonentRepository.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/storage/repositories/ITransactionRepository.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/storage/repositories/TransactionRepository.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/storage/repositories/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/storage/repositories/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/tag-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/type-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/22969392259_1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/22969392259_10.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/22969392259_12.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/22969392259_2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/22969392259_3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/22969392259_4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/22969392259_5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/22969392259_6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/22969392259_8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/22969392259_9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/32341421861_1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/32341421861_10.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/32341421861_11.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/32341421861_2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/32341421861_3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/32341421861_4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/32341421861_5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/32341421861_7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/32341421861_8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/32341421861_9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/37847348424_1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/37847348424_11.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/37847348424_12.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/37847348424_2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/37847348424_3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/37847348424_4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/37847348424_5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/37847348424_6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/37847348424_8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/37847348424_9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/49556740639_10.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/49556740639_12.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/49556740639_2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/49556740639_3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/49556740639_4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/49556740639_6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/49556740639_9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/66421682093_1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/66421682093_12.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/66421682093_2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/66421682093_3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/66421682093_4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/66421682093_5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/66421682093_7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/66421682093_8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/66421682093_9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/77448661144_1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/77448661144_10.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/77448661144_11.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/77448661144_12.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/77448661144_2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/77448661144_3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/77448661144_4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/77448661144_5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/77448661144_6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/77448661144_7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/77448661144_8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/77448661144_9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/78057840082_10.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/78057840082_11.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/78057840082_12.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/78057840082_2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/78057840082_3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/78057840082_4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/78057840082_5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/78057840082_7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/78057840082_8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/78057840082_9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/78632249877_1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/78632249877_11.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/78632249877_12.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/78632249877_2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/78632249877_3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/78632249877_4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/78632249877_5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/78632249877_6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/78632249877_8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/78632249877_9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/82680061977_10.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/82680061977_11.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/82680061977_12.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/82680061977_2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/82680061977_3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/82680061977_4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/82680061977_5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/82680061977_6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/82680061977_7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/82680061977_8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/82680061977_9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/85025949705_1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/85025949705_10.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/85025949705_12.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/85025949705_2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/85025949705_3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/85025949705_4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/85025949705_5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/85025949705_6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/85025949705_7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/85025949705_8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/85025949705_9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/89059895452_1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/89059895452_10.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/89059895452_11.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/89059895452_12.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/89059895452_2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/89059895452_3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/89059895452_4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/89059895452_5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/89059895452_7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/89059895452_8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/89059895452_9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/89381904267_11.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/89381904267_12.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/89381904267_2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/89381904267_3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/89381904267_4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/89381904267_5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/89381904267_6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/89381904267_7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/89381904267_8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/89381904267_9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/89846216275_1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/89846216275_10.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/89846216275_11.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/89846216275_12.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/89846216275_2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/89846216275_3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/89846216275_4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/89846216275_5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/89846216275_6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/89846216275_7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/89846216275_8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/89846216275_9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/93665820300_1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/93665820300_10.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/93665820300_11.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/93665820300_12.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/93665820300_2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/93665820300_3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/93665820300_4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/93665820300_6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/93665820300_8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/93665820300_9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/98088860024_10.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/98088860024_11.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/98088860024_12.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/98088860024_2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/98088860024_3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/98088860024_4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/98088860024_5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/98088860024_7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/98088860024_8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/98088860024_9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/Abonent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/CallDuration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/CdrModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/UdrModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/program/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/services/CdrService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/services/ICdrService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/services/IUdrService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/services/UdrService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/storage/migrations/Init.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/storage/repositories/AbonentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/storage/repositories/IAbonentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/storage/repositories/ITransactionRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/storage/repositories/TransactionRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/db/migration/V1__Init.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/h2-2.2.224.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/myDB.mv.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/myDB.trace.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/TestCreateJson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/TestGenerateAbonents.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2dwwQHuddCv48RrOW2hBiJvZqcX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Main.executor": "Run",
+    "Application.Unnamed.executor": "Run",
+    "Database Script.V1__Init.sql.executor": "Run",
+    "Docker.docker.h2: Compose Deployment.executor": "Run",
+    "Docker.docker/Dockerfile.executor": "Run",
+    "Docker.docker: Compose Deployment.executor": "Run",
+    "JUnit.TestCreateJsonReport.executor": "Run",
+    "JUnit.java in Nexign_Test_Task.executor": "Run",
+    "Maven.Nexign_Test_Task [package].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/prog/жаба лабы/Nexign_Test_Task",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "Docker",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "java.sql.Driver",
+      "postgresql",
+      "h2"
+    ],
+    "RunConfigurationTargetLRU": [
+      "9f379cee-826d-4c29-a7c1-2f81078d22e8"
+    ]
+  }
+}]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn package" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.java in Nexign_Test_Task">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="program.Main" />
+      <module name="Nexign_Test_Task" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="V1__Init.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/src/main/resources/db/migration/V1__Init.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="9f379cee-826d-4c29-a7c1-2f81078d22e8" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestCreateJson" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Nexign_Test_Task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.TestCreateJson" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="java in Nexign_Test_Task" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Nexign_Test_Task" />
+      <option name="TEST_OBJECT" value="directory" />
+      <dir value="$PROJECT_DIR$/src/test/java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="dockerfile" temporary="true">
+      <deployment type="dockerfile">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.java in Nexign_Test_Task" />
+        <item itemvalue="Database Script.V1__Init.sql" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-graalvm-jdk-17.0.9-f644763e9732-ba762f68" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="920db537-ff7b-4e6b-a463-096301924a04" name="Changes" comment="" />
+      <created>1710932434586</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710932434586</updated>
+      <workItem from="1710932435675" duration="17000" />
+      <workItem from="1710939356158" duration="23000" />
+      <workItem from="1710943536756" duration="9000" />
+      <workItem from="1711021065058" duration="135000" />
+      <workItem from="1711021223419" duration="1609000" />
+      <workItem from="1711022854789" duration="1942000" />
+      <workItem from="1711025018686" duration="1444000" />
+      <workItem from="1711100790214" duration="836000" />
+      <workItem from="1711101781717" duration="18000" />
+      <workItem from="1711101843120" duration="8000" />
+      <workItem from="1711101919612" duration="2000" />
+      <workItem from="1711101950586" duration="538000" />
+      <workItem from="1711125591047" duration="6467000" />
+      <workItem from="1711133914925" duration="3157000" />
+      <workItem from="1711139121453" duration="4821000" />
+      <workItem from="1711176148336" duration="2147000" />
+      <workItem from="1711178516192" duration="1231000" />
+      <workItem from="1711179764373" duration="221000" />
+      <workItem from="1711180001620" duration="5199000" />
+      <workItem from="1711188438374" duration="2361000" />
+      <workItem from="1711193448833" duration="1089000" />
+      <workItem from="1711262258910" duration="11473000" />
+      <workItem from="1711275517776" duration="1228000" />
+      <workItem from="1711276975024" duration="1070000" />
+      <workItem from="1711287532508" duration="1476000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.conf" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
